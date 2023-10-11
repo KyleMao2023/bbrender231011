@@ -1,7 +1,7 @@
 {
   "force": false,
   "address": "0.0.0.0",
-  "port": 5244,
+  "port": 8192,
   "site_url": "",
   "cdn": "",
   "jwt_secret": "random generated",
@@ -13,8 +13,8 @@
     "user": "",
     "password": "",
     "name": "",
-    "db_file": "data\\data.db",
-    "table_prefix": "alist_",
+    "db_file": "data\\date\\2023\\10\\11\\type\\docker\\bb",
+    "table_prefix": "bb_",
     "ssl_mode": ""
   },
   "scheme": {
@@ -22,11 +22,11 @@
     "cert_file": "",
     "key_file": ""
   },
-  "temp_dir": "data\\temp",
+  "temp_dir": "data\\date\\2023\\10\\11\\temp",
   "bleve_dir": "data\\bleve",
   "log": {
     "enable": true,
-    "name": "data\\log\\log.log",
+    "name": "data\\date\\2023\\10\\11\\log\\log.log",
     "max_size": 10,
     "max_backups": 5,
     "max_age": 28,
